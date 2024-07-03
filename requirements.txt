@@ -1,0 +1,8 @@
+notebook
+Pandas
+numpy
+matplotlib
+numpy_financial
+lxml
+yfinance
+seaborn
