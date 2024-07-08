@@ -6,3 +6,4 @@ numpy_financial
 lxml
 yfinance
 seaborn
+scikit-learn
