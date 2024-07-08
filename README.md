@@ -22,7 +22,11 @@ To start this repository at your local machine or environment please follow the 
   ```sh
     git clone https://github.com/MohammedGuniem/Stock-Market-Simulations.git
   ```
-  7) Install the required packages using this command
+  7) Navigate to the root folder of this project
+  ```sh
+    cd .\Stock-Market-Simulation\
+  ```
+  8) Install the required packages using this command
   ```sh
       pip install -r requirements.txt
   ```
@@ -32,7 +36,7 @@ To start this repository at your local machine or environment please follow the 
   ```sh
     conda activate sms
   ```
-  2) Navigate to the root folder of your project
+  2) Navigate to the root folder of this project
   ```sh
     cd .\Stock-Market-Simulation\
   ```
