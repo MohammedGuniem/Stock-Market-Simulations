@@ -28,7 +28,7 @@ To start this repository at your local machine or environment please follow the 
   ```
   8) Install the required packages using this command
   ```sh
-      pip install -r requirements.txt
+    pip install -r requirements.txt
   ```
 
 ### B- Development
@@ -36,11 +36,11 @@ To start this repository at your local machine or environment please follow the 
   ```sh
     conda activate sms
   ```
-  2) Navigate to the root folder of this project
+  2) Navigate to the root folder of this project, if you're not already there
   ```sh
     cd .\Stock-Market-Simulation\
   ```
-  2) Run the jupyter notebook service
+  3) Run the jupyter notebook service
   ```sh
     jupyter notebook
   ```
