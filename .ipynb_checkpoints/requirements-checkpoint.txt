@@ -1,9 +1,13 @@
-notebook
-Pandas
-numpy
-matplotlib
 numpy_financial
 lxml
 yfinance
 seaborn
+notebook
+pandas
+numpy
 scikit-learn
+matplotlib
+tensorflow
+transformers
+tf-keras
+torch
