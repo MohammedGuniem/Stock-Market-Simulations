@@ -14,21 +14,29 @@ To start this repository at your local machine or environment please follow the 
   ```sh
     cd .\Projects\
   ```
-  5) Create a new conda environment with the latest python version using this code
-  ```sh
-    conda create --name sms python
-  ```
-  6) Clone this repository to your local machine using this command
+  5) Clone this repository to your local machine using this command
   ```sh
     git clone https://github.com/MohammedGuniem/Stock-Market-Simulations.git
   ```
-  7) Navigate to the root folder of this project
+  6) Navigate to the root folder of this project
   ```sh
     cd .\Stock-Market-Simulation\
   ```
-  8) Install the required packages using this command
+  7) Create a new conda environment with the latest python version using this code
+  ```sh
+    conda create --name sms python==3.10
+  ```
+  8) To start working on your local environment, enter the conda environment by using the command
+  ```sh
+    conda activate sms
+  ```
+  9) Install the required packages using this command
   ```sh
     pip install -r requirements.txt
+  ```
+  10) Run the jupyter notebook service
+  ```sh
+    jupyter notebook
   ```
 
 ### B- Development
